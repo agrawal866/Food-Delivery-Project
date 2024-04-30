@@ -1,0 +1,57 @@
+
+/* Nevbar Section */
+#navbar{
+    flex-direction: column;
+    height: 184px;
+    top: -20px;
+}
+
+
+/* Home Section */
+#home{
+    height: 520px;
+    padding: 3px 50px;
+    padding-left: 36px;
+}
+#home h1{
+    font-size: 20px;
+}
+#home::before{
+    height: 400px;
+    width: 200%;
+}
+#home p{
+    font-size: 10px;
+}
+#home.h-primrary{
+    font-size: 20px;
+}
+/* Servevies Section */
+#services{
+    flex-direction: column;
+}
+
+
+/* client section */
+#clients{
+    overflow: hidden;
+}
+
+
+/* Contact section */
+#contact::before{
+    height: 70px;
+}
+
+
+
+/* FOoter */
+
+
+/* Utility Classes */
+.h-primrary{
+    font-size: 25px;
+}
+#btn{
+    padding: 5px;
+}
