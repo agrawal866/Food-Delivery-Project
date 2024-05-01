@@ -138,7 +138,7 @@
 #contact-container::before{
     content: "";
     position: absolute;
-    height: 82%;
+    height: 84%;
     width: 100%;
     z-index: -1;
     background: url('contact.jpeg') no-repeat center center/cover;
